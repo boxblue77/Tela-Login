@@ -15,9 +15,4 @@ Link para a Tela de Login: [Tela de Login](https://lerraji-sousa.github.io/Tela-
 - **HTML**: Para estruturar a interface da tela de login.
 - **CSS**: Para estilizar a tela de login.
 
-<br>
 
-## 🎯 Funcionalidade
-
-- Campos de entrada para e-mail e senha.
-- Design responsivo para diferentes dispositivos.
